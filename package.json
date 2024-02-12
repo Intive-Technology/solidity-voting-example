@@ -1,0 +1,7 @@
+{
+  "name": "solidity-voting-example",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^2.0.0",
+    "hardhat": "^2.19.5"
+  }
+}
